@@ -6,10 +6,10 @@
 * 2 markers
 
 ## Abbreviations
-bo: bind of
-co: cast on
-k: knit
-p: purl
+- bo: bind of
+- co: cast on
+- k:  knit
+- p:  purl
 
 ## Pattern
 ### Foot
