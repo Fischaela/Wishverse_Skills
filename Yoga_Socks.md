@@ -1,7 +1,7 @@
 # Yoga Socks
 
 ## Material
-*
+* Wolle Rödel Sport- und Strumpfwolle Color 4-fach; 75% Schurwolle, 25% Polyamid; 200m, 50g; 2.5mm-3mm; Gauge: 10cm * 10cm = 30 stitches, 40 rows; 30°
 * Size 2.5mm double pointed needles
 * 2 markers
 
