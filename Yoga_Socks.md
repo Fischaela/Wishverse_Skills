@@ -13,7 +13,7 @@
 
 ## Pattern
 ### Foot
-* Cast on 52 (13-13-13-13)stitches and join the round.
+* Co 52 (13-13-13-13)stitches and join the round.
 * Place marker before first stitch.
 * Work k1p1 for 10 rows.
 * Work stockinette until work measures 7.5cm from cast on edge.
