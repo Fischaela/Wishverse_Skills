@@ -26,3 +26,6 @@
 - Test with knife if its ready.
 - Let it cool down and remove the springform pan.
 - Mix powder sugar with alcohol and pour it on the cake.
+
+## Comments
+- I will try with less sugar next time. It was very sweet, especially with the icing.
