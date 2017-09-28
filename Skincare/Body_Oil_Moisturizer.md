@@ -6,7 +6,10 @@
 * 25ml Olive Oil
 * 7 drops Cinnamon Oil
 * 10 drops Vanilla Oil
-* 3 drops Colves Oil (or another essential oil, if you do not like the smell of fly dope)
+* 3 drops Colves Oil
 
 ## Guide
 1. Mix.
+
+## Comments
+- I substituted 3 drops of Cloves Oil with 5 drops of Sage Oil. Smells so much better.
