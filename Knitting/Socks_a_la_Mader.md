@@ -8,6 +8,7 @@
 - bo:    bind of
 - co:    cast on
 - k:     knit
+- k2tog: knit 2 together
 - p:     purl
 - p2tog: purl 2 together
 - psso:  pass the slipped stitch over
@@ -47,4 +48,16 @@
 * On needle 1 and 4 are now more stitches than on needle 2 and 3.
 
 ### Gusset Decrease
-*
+* Knit stitches on needles 1 and 4.
+* Every third round, decrease stitches until stitches on needle 1 and 4 are the same amount as stitches on needle 2 and 3:
+	* Needle 1: knit to the last 3 stitches, k2tog, k1
+	* Needle 4: k1, sl1, k1, psso
+
+### Finish the sock
+* Knit until toe begin
+* Decrease with the following pattern by decreasing, knitting 3 rounds, decreasing, knitting 2 rounds (twice), decreasing, knitting 1 round (three times), decreasing until only 8 stitches are left:
+	* Needle 1: knit to the last 3 stitches, k2tog, k1
+	* Needle 2: k1, sl1, k1, psso, knit the following stitches
+	* Needle 3: knit to the last 3 stitches, k2tog, k1
+	* Needle 4: k1 sli1, k1, psso, knit the following stitches
+
