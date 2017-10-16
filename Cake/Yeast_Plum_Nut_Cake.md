@@ -1,4 +1,4 @@
-# Yeast Plum Nut Cake
+# Plum Hazelnut Cinnamon Yeast Braid
 
 ## Ingredients
 
