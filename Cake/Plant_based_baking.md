@@ -7,6 +7,9 @@ To replace one egg, you can use the following ingredients.
 * 2tbsp soy yoghurt and 1 Pinch Baking Powder/Natron
 * 1 Pinch Baking Powder/Natron and some plant milk
 
+Egg alternative for pancakes:
+* use bananas to thicken the mixture, 1 banana equals 2 eggs
+
 ### Replacing eggs in casseroles, bread, and brownies
 * 60g apple or banana puree and 1 shot neutral plant oil
 * 50g mashed (silken) tofu
