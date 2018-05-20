@@ -4,11 +4,13 @@
 To replace one egg, you can use the following ingredients.
 
 ### Replacing eggs in pancakes or cake
-* 2tbsp soy yoghurt and 1 Pinch Baking Powder/Natron
-* 1 Pinch Baking Powder/Natron and some plant milk
+* 2tbsp soy yoghurt and 1 Pinch baking powder/natron
+* 1tsp baking soda mixed with 1tsp white vinegar
+* 1 Pinch baking powder/natron and some plant milk
 
 ### Replacing eggs in casseroles, bread, and brownies
 * 60g apple or banana puree and 1 shot neutral plant oil
+* 0.5-1 mashed banana
 * 50g mashed (silken) tofu
 * 1tbsp soy or plant root flour, sirred with 2 tbsp water
 * 1-2tbsp flaxseed or chia seed, soaked in water
