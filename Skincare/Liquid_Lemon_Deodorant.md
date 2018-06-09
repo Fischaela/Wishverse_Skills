@@ -1,7 +1,7 @@
 # Liquid Lemon Deodorant
 
 ## Ingredients
-* 2 Teespoons Natron
+* 2 Teespoons / 14g Natron
 * 100ml Cooked And Cooled Down Water
 * 8 Drops Essential Lemon Oil
 * 2 Drops Essential Teetree Oil
