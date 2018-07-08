@@ -28,7 +28,7 @@
 ## Ingredients for 100ml
 * 10g Natron
 * 100ml Cooked And Cooled Down Water
-* xxg Xanthan Gum
+* 8TL Xanthan Gum
 * 5g Clay (Australische Tonerde Washed Blue)
 * Essential Oils for Willow I
   * 6 Drops Essential Lemon Oil (High Note)
