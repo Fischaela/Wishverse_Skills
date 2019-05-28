@@ -1,6 +1,6 @@
 # Normal Again
 
-Should help when experiencing mentrual pain and cramps.
+Should help when experiencing menstrual pain and cramps.
 
 ## Ingredients
 * 50ml Carrier Oil, e.g. argan oil, hemp oil, ...
