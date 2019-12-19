@@ -1,4 +1,4 @@
-# Facial Oil Moisturizer
+# Halfrek Facial Oil Moisturizer
 
 ## Ingredients
 * 50ml Argan Oil
