@@ -1,5 +1,9 @@
 # Willow – Spray Deodorant
 
+## Notes
+* 100g H2O lösen bei 25 °C 10,3g Natron
+* 30drops = 1ml
+
 ## Ingredients for 100ml
 * 10g Natron
 * 100ml Cooked And Cooled Down Water
